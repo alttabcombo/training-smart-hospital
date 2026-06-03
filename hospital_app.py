@@ -103,6 +103,10 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
+st.markdown("---")
+st.markdown("---")
+st.markdown("---")
+
 # ── Form ──────────────────────────────────────────────────────────────────────
 with st.form("triage_form"):
 
